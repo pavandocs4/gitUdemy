@@ -1,6 +1,3 @@
 Hi This is a demo file
-<<<<<<< HEAD
-=======
 
 new changes
->>>>>>> 9b93cbd6109aea8ec709c2ce72251f872aac5ca4
